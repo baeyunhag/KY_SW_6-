@@ -1,6 +1,6 @@
 {
-  "name": "건양대 셔틀버스",
-  "short_name": "KY셔틀",
+  "name": "NaviCampus",
+  "short_name": "NaviCampus",
   "description": "건양대학교 셔틀버스 실시간 정보",
   "start_url": "./index.html",
   "display": "standalone",
